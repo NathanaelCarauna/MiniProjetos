@@ -63,7 +63,7 @@ public class AgendaPessoal {
 					}
 
 					System.out.println("Qual o compromisso?");
-					compromisso = scan.next();
+					compromisso = scan.next();  //Somente lê a próxima string.
 					dia--;
 					agenda[dia][hora] = compromisso;
 
