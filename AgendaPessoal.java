@@ -1,8 +1,6 @@
-package com.cursojava.aula20.exercicios;
-
 import java.util.Scanner;
 
-public class Ex04 {
+public class AgendaPessoal {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 
